@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.zpolar.chess",
+    "sha256_cert_fingerprints": ["AA:0F:87:19:D4:09:27:B7:36:14:60:54:5D:0B:ED:6A:3C:20:EC:FA:40:EE:DC:F2:77:B6:DB:BF:53:B2:56:FB"]
+  }
+}]
